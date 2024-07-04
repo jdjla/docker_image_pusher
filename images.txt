@@ -1,1 +1,1 @@
-alpine
+xhofe/alist:latest
