@@ -1,1 +1,1 @@
-xhofe/alist:7a86d6cdd905
+xhofe/alist:latest
