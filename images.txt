@@ -1,1 +1,1 @@
-klakegg/hugo@sha256:9cd4d000a05955c7912d5e6d7c9bd578c43c18df4fd2d6224b6fb0fcf5fd0fee
+centos:centos7
